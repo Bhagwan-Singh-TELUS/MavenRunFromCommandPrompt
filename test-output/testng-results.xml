@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-03T09:06:41 IST" name="AutomationSuite" finished-at="2022-10-03T09:07:12 IST" duration-ms="30919">
+    <groups>
+    </groups>
+    <test started-at="2022-10-03T09:06:41 IST" name="TestRegisterDemoFromCommandPrompt" finished-at="2022-10-03T09:07:12 IST" duration-ms="30919">
+      <class name="com.telus.testng.RegisterDemoEndToEndTestNG">
+        <test-method signature="launchApplication()[pri:1, instance:com.telus.testng.RegisterDemoEndToEndTestNG@18d87d80]" started-at="2022-10-03T09:06:41 IST" name="launchApplication" finished-at="2022-10-03T09:07:04 IST" duration-ms="22785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="navigateToRegisterForDemo()[pri:2, instance:com.telus.testng.RegisterDemoEndToEndTestNG@18d87d80]" started-at="2022-10-03T09:07:04 IST" name="navigateToRegisterForDemo" finished-at="2022-10-03T09:07:08 IST" duration-ms="3543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToRegisterForDemo -->
+        <test-method signature="validateTitle()[pri:3, instance:com.telus.testng.RegisterDemoEndToEndTestNG@18d87d80]" started-at="2022-10-03T09:07:08 IST" name="validateTitle" finished-at="2022-10-03T09:07:08 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method signature="registerUser()[pri:4, instance:com.telus.testng.RegisterDemoEndToEndTestNG@18d87d80]" started-at="2022-10-03T09:07:08 IST" name="registerUser" finished-at="2022-10-03T09:07:12 IST" duration-ms="4380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+        <test-method signature="successfulValidation()[pri:5, instance:com.telus.testng.RegisterDemoEndToEndTestNG@18d87d80]" started-at="2022-10-03T09:07:12 IST" name="successfulValidation" finished-at="2022-10-03T09:07:12 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfulValidation -->
+        <test-method signature="closeApplication()[pri:6, instance:com.telus.testng.RegisterDemoEndToEndTestNG@18d87d80]" started-at="2022-10-03T09:07:12 IST" name="closeApplication" finished-at="2022-10-03T09:07:12 IST" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.telus.testng.RegisterDemoEndToEndTestNG -->
+    </test> <!-- TestRegisterDemoFromCommandPrompt -->
+  </suite> <!-- AutomationSuite -->
+</testng-results>
