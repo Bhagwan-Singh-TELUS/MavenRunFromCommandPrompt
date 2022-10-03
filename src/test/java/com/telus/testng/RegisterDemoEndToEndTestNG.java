@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 
 public class RegisterDemoEndToEndTestNG {
 
-
+         // Committed by bhagwan singh gor CI-CD implimentation 03/oct/2022
 	// Declare all the variables
 
 	// Declare a variable for WebDriver
